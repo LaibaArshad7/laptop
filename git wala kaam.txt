@@ -1,0 +1,19 @@
+git status
+git init
+git status
+
+git add -A
+
+git status
+
+git config --global user.name "LaibaArshad7"
+git config --global user.email "laiba_arshad5k70@outlook.com"
+
+git commit -m "work complete"
+
+is k baad apko github login karna ha or wahn plus sign p jaa k new repository
+ create karna hai phr uska link copy karkay command line p wapsi ana hai or yahan likhna hai
+
+git remote add origin or uska link paste krdena hai https://github.com/LaibaArshad7/python.git
+
+git push -u origin master
